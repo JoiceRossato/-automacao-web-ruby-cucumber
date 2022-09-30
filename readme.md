@@ -1,0 +1,1 @@
+Esse projeto foi desenvolvido para colocar em prática meus conhecimentos em automação web utilizando Ruby, Capybara, Rspec e Cucumber.
